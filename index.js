@@ -13,7 +13,7 @@ const db = admin.firestore();
 
 // Initialize bot
 const BOT_TOKEN = '8356591705:AAGUlcADugoR3u77EiAY67C8XSyZGU89PcU';
-const WEBAPP_URL = 'https://yourdomain.com'; // Replace with your actual domain
+const WEBAPP_URL = 'https://adton.netlify.app'; // Replace with your actual domain
 
 const bot = new Telegraf(BOT_TOKEN);
 
